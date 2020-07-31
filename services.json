@@ -1,0 +1,38 @@
+{
+  "services": [
+    {
+      "title": "Site institucional",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec imperdiet sem. Praesent tempor lorem in velit pellentesque",
+      "link": "/",
+      "resources": [ 
+        "Segurança", 
+        "Até 4 páginas",
+        "Formulário de contato",
+        "Links Redes Sociais",
+        "Chat",
+        "Google Analytics",
+        "Otimizado",
+        "SEO para busca organica",
+        "Design responsivo",
+        "E-mail personalizado"
+      ]
+    },
+    {
+      "title": "23 institucional",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec imperdiet sem. Praesent tempor lorem in velit pellentesque",
+      "link": "/",
+      "resources": [ 
+        "Segurança", 
+        "Até 4 páginas",
+        "Formulário de contato",
+        "Links Redes Sociais",
+        "Chat",
+        "Google Analytics",
+        "Otimizado",
+        "SEO para busca organica",
+        "Design responsivo",
+        "E-mail personalizado"
+      ]
+    }
+  ]
+}
